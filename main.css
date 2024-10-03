@@ -18,7 +18,7 @@
 
 .tel {
     font-size: 10vw;
-    color: #fff;
+    color: green;
 }
 
 .btn {
@@ -32,6 +32,7 @@
 .btn:active {
     transform: scale(.95);
 }
-.btn:disabled:active{
+
+.btn:disabled:active {
     transform: scale(1);
 }
